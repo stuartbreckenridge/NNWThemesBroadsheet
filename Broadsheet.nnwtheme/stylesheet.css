@@ -19,6 +19,8 @@ body {
 	padding-bottom: 0.2em;
 	font-size: 0.8em;
 	display: flex;
+	text-align: left;
+	text-justify: none;
 }
 
 a {

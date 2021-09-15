@@ -1,7 +1,7 @@
 # Broadsheet for NetNewsWire
 
 ## Installation instructions
-- Download the [latest release](https://github.com/stuartbreckenridge/NNWThemesBroadsheet/archive/refs/tags/4.zip)
+- Download the [latest release](https://github.com/stuartbreckenridge/NNWThemesBroadsheet/archive/refs/tags/5.zip)
 - Open the enclosed `.nnwtheme` in NetNewsWire
 
 
