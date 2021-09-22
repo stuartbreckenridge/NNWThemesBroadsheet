@@ -4,13 +4,13 @@
 <dict>
 	<key>Name</key>
 	<string>Broadsheet</string>
-	<key>ThemeIdentifer</key>
+	<key>ThemeIdentifier</key>
 	<string>com.mynameisstuart.themes.broadsheet</string>
 	<key>CreatorHomePage</key>
 	<string>https://mynameisstuart.com/</string>
 	<key>CreatorName</key>
 	<string>Stuart Breckenridge</string>
 	<key>Version</key>
-	<integer>7</integer>
+	<integer>8</integer>
 </dict>
 </plist>
